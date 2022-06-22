@@ -463,16 +463,16 @@
       "ADC"
     ],
     [
-      "f3879066-a91b-415e-b241-18f9d05de4a2",
-      "MCU + IO"
-    ],
-    [
       "5869e7b3-0d61-455b-97ad-e4e8b4829f27",
       "Power"
     ],
     [
       "2f10b7a1-df61-45b4-9fd1-1ebf21b41a15",
       "LED"
+    ],
+    [
+      "5fc0c83c-d5ba-486c-becb-4dfeff9996e6",
+      "ESP32"
     ]
   ],
   "text_variables": {}

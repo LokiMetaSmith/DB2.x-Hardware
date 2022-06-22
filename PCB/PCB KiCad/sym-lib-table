@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "esp32-c3-mini-1")(type "KiCad")(uri "${KIPRJMOD}/footprints/ESP32-_C3_-MINI-_1-main/esp32-c3-mini-1.kicad_sym")(options "")(descr ""))
+)

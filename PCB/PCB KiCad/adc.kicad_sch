@@ -6,9 +6,10 @@
 
   (title_block
     (title "Development Board")
-    (date "2022-03-15")
-    (rev "2.1")
+    (date "2022-06-22")
+    (rev "2.2")
     (company "Plastic Scanner")
+    (comment 1 "Juniper Technologies")
   )
 
   (lib_symbols
